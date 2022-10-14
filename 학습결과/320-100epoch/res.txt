@@ -1,0 +1,202 @@
+C:\Users\john\AppData\Local\Temp\ipykernel_48436\978004405.py:9: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  data =  torch.tensor(data, dtype = torch.float32)
+Output exceeds the size limit. Open the full output data in a text editor
+Train Loss: 4108.0375
+Epoch 2
+Train Loss: 8216.0776
+Epoch 3
+Train Loss: 12324.0735
+Epoch 4
+Train Loss: 16432.0465
+Epoch 5
+Train Loss: 20540.0285
+Epoch 6
+Train Loss: 24648.0479
+Epoch 7
+Train Loss: 28756.0502
+Epoch 8
+Train Loss: 32864.0372
+Epoch 9
+Train Loss: 36972.0426
+Epoch 10
+Train Loss: 41080.0248
+Epoch 11
+Train Loss: 45188.0009
+Epoch 12
+Train Loss: 49296.0206
+Epoch 13
+Train Loss: 53404.0554
+Epoch 14
+Train Loss: 57512.0575
+Epoch 15
+Train Loss: 61620.1027
+Epoch 16
+Train Loss: 65728.1054
+Epoch 17
+Train Loss: 69836.1007
+Epoch 18
+Train Loss: 73944.1035
+Epoch 19
+Train Loss: 78052.0859
+Epoch 20
+Train Loss: 82160.0893
+Epoch 21
+Train Loss: 86268.0921
+Epoch 22
+Train Loss: 90376.0811
+Epoch 23
+Train Loss: 94484.0976
+Epoch 24
+Train Loss: 98592.1125
+Epoch 25
+Train Loss: 102700.1157
+Epoch 26
+Train Loss: 106808.0890
+Epoch 27
+Train Loss: 110916.0961
+Epoch 28
+Train Loss: 115024.1269
+Epoch 29
+Train Loss: 119132.1271
+Epoch 30
+Train Loss: 123240.1016
+Epoch 31
+Train Loss: 127348.0801
+Epoch 32
+Train Loss: 131456.0749
+Epoch 33
+Train Loss: 135564.0763
+Epoch 34
+Train Loss: 139672.0544
+Epoch 35
+Train Loss: 143780.0370
+Epoch 36
+Train Loss: 147888.0513
+Epoch 37
+Train Loss: 151996.0562
+Epoch 38
+Train Loss: 156104.0743
+Epoch 39
+Train Loss: 160212.0566
+Epoch 40
+Train Loss: 164320.0969
+Epoch 41
+Train Loss: 168428.0756
+Epoch 42
+Train Loss: 172536.0743
+Epoch 43
+Train Loss: 176644.0660
+Epoch 44
+Train Loss: 180752.0771
+Epoch 45
+Train Loss: 184860.0288
+Epoch 46
+Train Loss: 188968.0426
+Epoch 47
+Train Loss: 193076.0374
+Epoch 48
+Train Loss: 197184.0141
+Epoch 49
+Train Loss: 201292.0027
+Epoch 50
+Train Loss: 205400.0726
+Epoch 51
+Train Loss: 209508.0456
+Epoch 52
+Train Loss: 213616.0442
+Epoch 53
+Train Loss: 217724.0397
+Epoch 54
+Train Loss: 221832.0463
+Epoch 55
+Train Loss: 225940.0707
+Epoch 56
+Train Loss: 230048.0761
+Epoch 57
+Train Loss: 234156.0815
+Epoch 58
+Train Loss: 238264.0425
+Epoch 59
+Train Loss: 242371.9821
+Epoch 60
+Train Loss: nan
+Epoch 61
+Train Loss: nan
+Epoch 62
+Train Loss: nan
+Epoch 63
+Train Loss: nan
+Epoch 64
+Train Loss: nan
+Epoch 65
+Train Loss: nan
+Epoch 66
+Train Loss: nan
+Epoch 67
+Train Loss: nan
+Epoch 68
+Train Loss: nan
+Epoch 69
+Train Loss: nan
+Epoch 70
+Train Loss: nan
+Epoch 71
+Train Loss: nan
+Epoch 72
+Train Loss: nan
+Epoch 73
+Train Loss: nan
+Epoch 74
+Train Loss: nan
+Epoch 75
+Train Loss: nan
+Epoch 76
+Train Loss: nan
+Epoch 77
+Train Loss: nan
+Epoch 78
+Train Loss: nan
+Epoch 79
+Train Loss: nan
+Epoch 80
+Train Loss: nan
+Epoch 81
+Train Loss: nan
+Epoch 82
+Train Loss: nan
+Epoch 83
+Train Loss: nan
+Epoch 84
+Train Loss: nan
+Epoch 85
+Train Loss: nan
+Epoch 86
+Train Loss: nan
+Epoch 87
+Train Loss: nan
+Epoch 88
+Train Loss: nan
+Epoch 89
+Train Loss: nan
+Epoch 90
+Train Loss: nan
+Epoch 91
+Train Loss: nan
+Epoch 92
+Train Loss: nan
+Epoch 93
+Train Loss: nan
+Epoch 94
+Train Loss: nan
+Epoch 95
+Train Loss: nan
+Epoch 96
+Train Loss: nan
+Epoch 97
+Train Loss: nan
+Epoch 98
+Train Loss: nan
+Epoch 99
+Train Loss: nan
+Epoch 100
+Train Loss: nan
